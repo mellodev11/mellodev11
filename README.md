@@ -18,3 +18,9 @@
 
 💻 Desenvolvedor a 1 ano e totalmente empenhado em aprender cada vez mais.
 
+## Meu Histórico de Contribuições 💻
+[Veja meu histórico completo no GitHub](https://github.com/devmello11)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
